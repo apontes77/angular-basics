@@ -1,0 +1,40 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Back-end é o motor do mundo",
+      "autoria": "Alexandre Queiroz",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Front-end é importante",
+      "autoria": "Alexandre Queiroz",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Malandro é malandro, mané é mané",
+      "autoria": "Cariocas",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 4,
+      "conteudo": "Prego que se destaca martelada leva",
+      "autoria": "Rodrigo Barroco",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 5,
+      "conteudo": "Vamos fazer isso daí, sem estresse",
+      "autoria": "Richard Schug",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Nem quem ganhar ou perder vai ganhar ou perder. Vai todo mundo perder",
+      "autoria": "Dilma Roussef",
+      "modelo": "modelo2",
+      "id": 7
+    }
+  ]
+}
