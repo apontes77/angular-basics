@@ -7,4 +7,17 @@ import { Component } from '@angular/core';
 })
 export class ListarPensamentoComponent {
 
+  listaPensamentos = [
+    {
+      conteudo: '',
+      autoria: '',
+      modelo: 'modelo3'
+    },
+    {
+      conteudo: '',
+      autoria: '',
+      modelo: 'modelo2'
+    }
+  ];
+
 }
